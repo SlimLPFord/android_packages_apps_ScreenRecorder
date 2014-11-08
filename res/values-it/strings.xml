@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScreenRecorder</string>
+
+    <string name="notification_recording_title">Registrazione schermo in corso</string>
+
+    <string name="notification_recording_finished_title">Registrazione salvata</string>
+    <string name="notification_recording_finished_text">Apri registrazione %s</string>
+
+    <string name="notification_recording_error_title">Errore registrazione</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">Elaborazione video in corso</string>
+
+    <string name="notification_action_stop_recording">Stop</string>
+    <string name="notification_action_show_touch">Mostra tocchi</string>
+
+    <string name="error_unable_to_create_directory">Impossibile creare cartella registrazioni</string>
+    <string name="error_external_storage_unavailable">Nessun archivio di memorizzazione disponibile</string>
+    <string name="error_unable_to_start">Impossibile avviare la registrazione</string>
+
+</resources>
