@@ -19,7 +19,5 @@
     <string name="error_unable_to_create_directory">Impossibile creare cartella registrazioni</string>
     <string name="error_external_storage_unavailable">Nessun archivio di memorizzazione disponibile</string>
     <string name="error_unable_to_start">Impossibile avviare la registrazione</string>
-    
-    <string name="notification_video_finished_title">Video salvato nella cartella ScreenRecorder</string>
 
 </resources>
